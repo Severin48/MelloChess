@@ -2,10 +2,7 @@
 # MelloChess ver. 1.14
 # Chess with Pygame
 # Finished 27th March 2020
-# main.py: 88 lines
-# pieces.py: 792 lines
-# ui.py: 318 lines
-# Total: 1198 lines of code --> May change after comments have been removed/added
+# Total lines of code: 1130
 
 import pygame as pg
 import pieces as p

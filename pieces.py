@@ -731,11 +731,9 @@ def checkmated():
                     j += 1
             if j >= 2:
                 if king.legal_moves() == {None} or not len(king.legal_moves()):
-                    # pg.time.delay(2000)
                     return "b"
             if j == 1 and king.legal_moves() == {None}:
                 for bp in black_pieces:
                     if attacker.square in bp.legal_moves():
                         break
-                    # pg.time.delay(2000)
                     return "b"
