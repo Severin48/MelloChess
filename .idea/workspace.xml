@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6ee1e9c-016c-4871-bbaf-05332b0d8698" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pieces.py" beforeDir="false" afterPath="$PROJECT_DIR$/pieces.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +63,25 @@
       <option name="presentableId" value="Default" />
       <updated>1585320302719</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1587286312321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587286312321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="399" y="7" key="CommitChangelistDialog2" timestamp="1587286310772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587286310772" />
     <state width="1515" height="140" key="GridCell.Tab.0.bottom" timestamp="1586641264886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -85,9 +98,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586641264886" />
-    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587286268574">
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587286348835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1587286268574" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1587286348835" />
   </component>
 </project>
